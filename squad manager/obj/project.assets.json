@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\neils\\source\\repos\\squad manager\\squad manager\\squad manager.csproj",
+      "projectUniqueName": "C:\\Users\\neils\\Desktop\\neilsonads\\estudo\\Conta própria\\Ativo\\.NET\\squad-manager\\squad manager\\squad manager.csproj",
       "projectName": "squad manager",
-      "projectPath": "C:\\Users\\neils\\source\\repos\\squad manager\\squad manager\\squad manager.csproj",
+      "projectPath": "C:\\Users\\neils\\Desktop\\neilsonads\\estudo\\Conta própria\\Ativo\\.NET\\squad-manager\\squad manager\\squad manager.csproj",
       "packagesPath": "C:\\Users\\neils\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\neils\\source\\repos\\squad manager\\squad manager\\obj\\",
+      "outputPath": "C:\\Users\\neils\\Desktop\\neilsonads\\estudo\\Conta própria\\Ativo\\.NET\\squad-manager\\squad manager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\neils\\AppData\\Roaming\\NuGet\\NuGet.Config",

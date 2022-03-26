@@ -9,7 +9,13 @@ namespace SquadManager.Controllers
     public class LoginController : Controller{
         public IActionResult Index()
         {
-            return View();
+            return View("Index");
         }
+        public IActionResult Test(UserViewModel user)
+        {
+            User.Email = "email enviado";
+                return ("Index", User)
+        }
+
     }
 }
