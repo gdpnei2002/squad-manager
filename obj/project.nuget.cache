@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "aneC1fv7Np+P1yixXLO5+vMKdRDcf3AKG8pOIzDhgG6r7Ie97VxcB+EP86v4gfbFlIj7++USmz2cUrcFZ9FrRQ==",
+  "dgSpecHash": "+oZDaF1tEZmqIG3eBho6MuL0cReXksyu0O+AtkcXBQiPvH3gDLEclz+mfgoDWDk1xLd/Lgik7+7xsxD4lj3ebg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\neils\\Desktop\\neilsonads\\estudo\\Conta própria\\Ativo\\.NET\\squad manager\\squad manager.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\neils\\Desktop\\neilsonads\\estudo\\Conta própria\\Ativo\\.NET\\SquadManager\\squad manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\neils\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
+    "C:\\Users\\neils\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.4.0\\fluentvalidation.aspnetcore.10.4.0.nupkg.sha512",
+    "C:\\Users\\neils\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.4.0\\fluentvalidation.dependencyinjectionextensions.10.4.0.nupkg.sha512",
+    "C:\\Users\\neils\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

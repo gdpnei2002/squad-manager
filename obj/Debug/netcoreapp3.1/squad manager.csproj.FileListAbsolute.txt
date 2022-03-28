@@ -1,0 +1,210 @@
+C:\Users\neils\source\repos\squad manager\squad manager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\neils\source\repos\squad manager\squad manager\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\neils\source\repos\squad manager\squad manager\bin\Debug\netcoreapp3.1\squad manager.exe
+C:\Users\neils\source\repos\squad manager\squad manager\bin\Debug\netcoreapp3.1\squad manager.deps.json
+C:\Users\neils\source\repos\squad manager\squad manager\bin\Debug\netcoreapp3.1\squad manager.runtimeconfig.json
+C:\Users\neils\source\repos\squad manager\squad manager\bin\Debug\netcoreapp3.1\squad manager.runtimeconfig.dev.json
+C:\Users\neils\source\repos\squad manager\squad manager\bin\Debug\netcoreapp3.1\squad manager.dll
+C:\Users\neils\source\repos\squad manager\squad manager\bin\Debug\netcoreapp3.1\squad manager.pdb
+C:\Users\neils\source\repos\squad manager\squad manager\bin\Debug\netcoreapp3.1\squad manager.Views.dll
+C:\Users\neils\source\repos\squad manager\squad manager\bin\Debug\netcoreapp3.1\squad manager.Views.pdb
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.csproj.AssemblyReference.cache
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.AssemblyInfoInputs.cache
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.AssemblyInfo.cs
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.csproj.CoreCompileInputs.cache
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.RazorAssemblyInfo.cache
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.RazorAssemblyInfo.cs
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\staticwebassets\squad manager.StaticWebAssets.Manifest.cache
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\staticwebassets\squad manager.StaticWebAssets.xml
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\scopedcss\bundle\squad manager.styles.css
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.TagHelpers.input.cache
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.TagHelpers.output.cache
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.RazorCoreGenerate.cache
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.RazorTargetAssemblyInfo.cache
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.RazorTargetAssemblyInfo.cs
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.Views.pdb
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.dll
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.pdb
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.genruntimeconfig.cache
+C:\Users\neils\source\repos\squad manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.csproj.CopyComplete
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.csproj.AssemblyReference.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.AssemblyInfoInputs.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.AssemblyInfo.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.csproj.CoreCompileInputs.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.RazorAssemblyInfo.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.RazorAssemblyInfo.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.pdb
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\bin\Debug\netcoreapp3.1\squad manager.exe
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\bin\Debug\netcoreapp3.1\squad manager.deps.json
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\bin\Debug\netcoreapp3.1\squad manager.runtimeconfig.json
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\bin\Debug\netcoreapp3.1\squad manager.runtimeconfig.dev.json
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\bin\Debug\netcoreapp3.1\squad manager.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\bin\Debug\netcoreapp3.1\squad manager.pdb
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\bin\Debug\netcoreapp3.1\squad manager.Views.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\bin\Debug\netcoreapp3.1\squad manager.Views.pdb
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\staticwebassets\squad manager.StaticWebAssets.Manifest.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\staticwebassets\squad manager.StaticWebAssets.xml
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\scopedcss\bundle\squad manager.styles.css
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.TagHelpers.input.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.TagHelpers.output.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.RazorCoreGenerate.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\index.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.RazorTargetAssemblyInfo.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.RazorTargetAssemblyInfo.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.Views.pdb
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.csproj.CopyComplete
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\squad-manager\squad manager\obj\Debug\netcoreapp3.1\squad manager.genruntimeconfig.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\bin\Debug\netcoreapp3.1\squad manager.exe
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\bin\Debug\netcoreapp3.1\squad manager.deps.json
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\bin\Debug\netcoreapp3.1\squad manager.runtimeconfig.json
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\bin\Debug\netcoreapp3.1\squad manager.runtimeconfig.dev.json
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\bin\Debug\netcoreapp3.1\squad manager.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\bin\Debug\netcoreapp3.1\squad manager.pdb
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\bin\Debug\netcoreapp3.1\squad manager.Views.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\bin\Debug\netcoreapp3.1\squad manager.Views.pdb
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\squad manager.csproj.AssemblyReference.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\squad manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\squad manager.AssemblyInfoInputs.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\squad manager.AssemblyInfo.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\squad manager.csproj.CoreCompileInputs.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\squad manager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\squad manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\squad manager.RazorAssemblyInfo.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\squad manager.RazorAssemblyInfo.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\staticwebassets\squad manager.StaticWebAssets.Manifest.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\staticwebassets\squad manager.StaticWebAssets.xml
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\scopedcss\bundle\squad manager.styles.css
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\squad manager.TagHelpers.input.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\squad manager.TagHelpers.output.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\squad manager.RazorCoreGenerate.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\index.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\squad manager.RazorTargetAssemblyInfo.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\squad manager.RazorTargetAssemblyInfo.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\squad manager.Views.pdb
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\squad manager.csproj.CopyComplete
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\squad manager.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\squad manager.pdb
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\squad manager\obj\Debug\netcoreapp3.1\squad manager.genruntimeconfig.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\bin\Debug\netcoreapp3.1\squad manager.exe
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\bin\Debug\netcoreapp3.1\squad manager.deps.json
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\bin\Debug\netcoreapp3.1\squad manager.runtimeconfig.json
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\bin\Debug\netcoreapp3.1\squad manager.runtimeconfig.dev.json
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\bin\Debug\netcoreapp3.1\squad manager.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\bin\Debug\netcoreapp3.1\squad manager.pdb
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\bin\Debug\netcoreapp3.1\squad manager.Views.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\bin\Debug\netcoreapp3.1\squad manager.Views.pdb
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\squad manager.csproj.AssemblyReference.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\squad manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\squad manager.AssemblyInfoInputs.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\squad manager.AssemblyInfo.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\squad manager.csproj.CoreCompileInputs.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\squad manager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\squad manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\squad manager.RazorAssemblyInfo.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\squad manager.RazorAssemblyInfo.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\staticwebassets\squad manager.StaticWebAssets.Manifest.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\staticwebassets\squad manager.StaticWebAssets.xml
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\scopedcss\bundle\squad manager.styles.css
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\squad manager.TagHelpers.input.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\squad manager.TagHelpers.output.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\squad manager.RazorCoreGenerate.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\index.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\squad manager.RazorTargetAssemblyInfo.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\squad manager.RazorTargetAssemblyInfo.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\squad manager.Views.pdb
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\squad manager.csproj.CopyComplete
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\squad manager.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\squad manager.pdb
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\SquadManager\obj\Debug\netcoreapp3.1\squad manager.genruntimeconfig.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\bin\Debug\netcoreapp3.1\squad manager.exe
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\bin\Debug\netcoreapp3.1\squad manager.deps.json
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\bin\Debug\netcoreapp3.1\squad manager.runtimeconfig.json
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\bin\Debug\netcoreapp3.1\squad manager.runtimeconfig.dev.json
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\bin\Debug\netcoreapp3.1\squad manager.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\bin\Debug\netcoreapp3.1\squad manager.pdb
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\bin\Debug\netcoreapp3.1\squad manager.Views.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\bin\Debug\netcoreapp3.1\squad manager.Views.pdb
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\squad manager.csproj.AssemblyReference.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\squad manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\squad manager.AssemblyInfoInputs.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\squad manager.AssemblyInfo.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\squad manager.csproj.CoreCompileInputs.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\squad manager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\squad manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\squad manager.RazorAssemblyInfo.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\squad manager.RazorAssemblyInfo.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\staticwebassets\squad manager.StaticWebAssets.Manifest.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\staticwebassets\squad manager.StaticWebAssets.xml
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\scopedcss\bundle\squad manager.styles.css
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\squad manager.TagHelpers.input.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\squad manager.TagHelpers.output.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\squad manager.RazorCoreGenerate.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\index.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\squad manager.RazorTargetAssemblyInfo.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\squad manager.RazorTargetAssemblyInfo.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\squad manager.Views.pdb
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\squad manager.csproj.CopyComplete
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\squad manager.dll
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\squad manager.pdb
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\netcoreapp3.1\squad manager.genruntimeconfig.cache

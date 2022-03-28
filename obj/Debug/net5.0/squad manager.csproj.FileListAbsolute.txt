@@ -1,0 +1,8 @@
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\net5.0\squad manager.csproj.AssemblyReference.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\net5.0\squad manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\net5.0\squad manager.AssemblyInfoInputs.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\net5.0\squad manager.AssemblyInfo.cs
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\net5.0\squad manager.csproj.CoreCompileInputs.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\net5.0\squad manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\net5.0\squad manager.RazorAssemblyInfo.cache
+C:\Users\neils\Desktop\neilsonads\estudo\Conta própria\Ativo\.NET\SquadManager\obj\Debug\net5.0\squad manager.RazorAssemblyInfo.cs
