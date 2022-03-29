@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Views",
+    "\\Views\\Login"
   ],
-  "SelectedNode": "\\Views",
+  "SelectedNode": "\\squad manager.csproj",
   "PreviewInSolutionExplorer": false
 }
